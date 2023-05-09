@@ -34,6 +34,10 @@ body {
     padding-left: 5rem;
     width: 80%;
 }
+.three h3 {
+    color: rgb(41, 150, 213);
+    font-size: 2rem;
+}
 
 /* stage four style */
 .four {
@@ -45,7 +49,7 @@ body {
 }
 .four ul {
     list-style: none;
-    /* width: 50%; */
+    color: red;
 }
 .four li {
     padding: 2rem 0;
